@@ -1,19 +1,4 @@
-### Hi~  I am SYF
-#### 自学编程，前端爱好者，欢迎交流
-#### 其他兴趣：设计，摄影，乒乓球
-<pre>
-　　 パ..パ
-　　（ °Д° ）・・・　　　　　　　　　　　　　　纳尼，又有bug！
-＿＿（＿っ /￣￣￣￣￣/＿
-　　　　＼/＿＿＿＿＿/
-
-
-　　パ..パ
-⊂（ ° Д ° ）
-　　╮ ⊂ ）　　　　　　　　　　　　告辞！！！
-　（⌒）　|
-　　三　`J
-</pre>
+<image src="./github-banner.png"></image>
 <!--
 **shanfeng606/shanfeng606** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
