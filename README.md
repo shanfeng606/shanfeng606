@@ -1,4 +1,4 @@
-<image src="https://tse3-mm.cn.bing.net/th/id/OIP.gX9EgZFIS4Cx0Jo3JI9yFgHaDt?w=308&h=175&c=7&o=5&pid=1.7"></image>
+<image src="./github-banner.png"></image>
 <!--
 **shanfeng606/shanfeng606** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
