@@ -1,4 +1,4 @@
-<image src="./github-banner.png"></image>
+<image src="https://s1.ax1x.com/2020/07/22/UHao8S.png"></image>
 <!--
 **shanfeng606/shanfeng606** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
