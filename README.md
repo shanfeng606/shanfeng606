@@ -1,4 +1,5 @@
-![UHa1hT.png](https://s1.ax1x.com/2020/07/22/UHa1hT.png)
+![UHa1hT.png](https://s1.ax1x.com/2020/07/22/UHa1hT.png)   
+
 <!--
 **shanfeng606/shanfeng606** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=shanfeng606&hide=prs,issues,contribs)](https://github.com/anuraghazra/github-readme-stats)
